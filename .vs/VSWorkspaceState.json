@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\simple_test",
+    "\\simple_test\\app",
+    "\\simple_test\\app\\Facades",
+    "\\simple_test\\app\\Helpers",
+    "\\simple_test\\app\\Providers",
+    "\\simple_test\\routes"
+  ],
+  "SelectedNode": "\\simple_test\\app\\Helpers\\CustomGuzzleBuilder.php",
+  "PreviewInSolutionExplorer": false
+}
